@@ -1,0 +1,7 @@
+README.md
+setup.py
+kaputt/__init__.py
+kaputt.egg-info/PKG-INFO
+kaputt.egg-info/SOURCES.txt
+kaputt.egg-info/dependency_links.txt
+kaputt.egg-info/top_level.txt
