@@ -4,7 +4,7 @@ kaputtpy
 About
 -----
 
-This is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
+This is a project by `Aarón Montoya-Moraga<http://montoyamoraga.io/>`.
 
 kaputt.py is a Python library for making stuff go kaputt.
 
@@ -12,7 +12,7 @@ Installation
 ------------
 
 Install with pip::
-  pip install kaputt
+    pip install kaputt
 
 
 Functions
