@@ -11,9 +11,9 @@ kaputt.py is a Python library for making stuff go kaputt.
 Installation
 ------------
 
-```bash
-pip install kaputt
-```
+Install with pip::
+  pip install kaputt
+
 
 Functions
 ---------
