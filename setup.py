@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kaputt",
-    version="0.0.1",
+    version="0.0.2",
     author="montoyamoraga",
     author_email="montoyamoraga@gmail.com",
     description="python library for making stuff go kaputt",

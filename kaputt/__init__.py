@@ -1,7 +1,7 @@
 #kaputt.py
 #by aaron montoya-moraga
 #june 2018
-#v0.0.1
+#v0.0.2
 
 #import modules
 import os
