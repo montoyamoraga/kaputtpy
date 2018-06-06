@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kaputt",
-    version="0.0.2",
+    version="0.0.3",
     author="montoyamoraga",
     author_email="montoyamoraga@gmail.com",
     description="python library for making stuff go kaputt",
@@ -14,8 +14,9 @@ setuptools.setup(
     url="https://github.com/montoyamoraga/kaputtpy",
     packages=setuptools.find_packages(),
     classifiers=(
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
+        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 2"
     ),
 )
